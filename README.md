@@ -107,8 +107,8 @@ Steps:
 
 ## Links
 
-- **GitHub Repository**: `[add your GitHub repo link here]`
-- **Live Demo**: `[add your deployed demo link here]`
+- **GitHub Repository**: `[https://github.com/priyanshu30405/EZ]`
+- **Live Demo**: `[https://ez-5unk.vercel.app/]`
 
 ---
 
