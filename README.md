@@ -107,7 +107,7 @@ Steps:
 
 ## Links
 
-- **GitHub Repository**: `[https://github.com/priyanshu30405/EZ]`
+- **GitHub Repository**: `https://github.com/priyanshu30405/EZ`
 - **Live Demo**: `[https://ez-5unk.vercel.app/]`
 
 ---
